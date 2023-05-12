@@ -6,8 +6,8 @@ import 'package:tutorialapi/models/giphy_model.dart';
 
 List<Gifs> listGifs=[];
  const String _base='api.giphy.com';
- const String _apikey='cI8P1HOBQtP52N271yU4Oe339alFwQNQ';
- const String _limit='25';
+ const String _apikey='E2iFZxh4wGW3Hdn9LWn9sdrVOL9HuUXD';
+ const String _limit='10';
  const String _rating='g';
 
 
